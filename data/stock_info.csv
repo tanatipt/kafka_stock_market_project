@@ -1,0 +1,504 @@
+Symbol,Sector,Sub-Industry,Headquarter,Founded
+MMM,Industrials,Industrial Conglomerates,"Saint Paul, Minnesota",1902
+AOS,Industrials,Building Products,"Milwaukee, Wisconsin",1916
+ABT,Health Care,Health Care Equipment,"North Chicago, Illinois",1888
+ABBV,Health Care,Pharmaceuticals,"North Chicago, Illinois",2013
+ACN,Information Technology,IT Consulting & Other Services,"Dublin, Ireland",1989
+ATVI,Communication Services,Interactive Home Entertainment,"Santa Monica, California",2008
+ADM,Consumer Staples,Agricultural Products & Services,"Chicago, Illinois",1902
+ADBE,Information Technology,Application Software,"San Jose, California",1982
+ADP,Industrials,Human Resource & Employment Services,"Roseland, New Jersey",1949
+AAP,Consumer Discretionary,Automotive Retail,"Raleigh, North Carolina",1932
+AES,Utilities,Independent Power Producers & Energy Traders,"Arlington, Virginia",1981
+AFL,Financials,Life & Health Insurance,"Columbus, Georgia",1955
+A,Health Care,Health Care Equipment,"Santa Clara, California",1999
+APD,Materials,Industrial Gases,"Allentown, Pennsylvania",1940
+AKAM,Information Technology,Internet Services & Infrastructure,"Cambridge, Massachusetts",1998
+ALK,Industrials,Passenger Airlines,"SeaTac, Washington",1985
+ALB,Materials,Specialty Chemicals,"Charlotte, North Carolina",1994
+ARE,Real Estate,Office REITs,"Pasadena, California",1994
+ALGN,Health Care,Health Care Supplies,"Tempe, Arizona",1997
+ALLE,Industrials,Building Products,"New York City, New York",1908
+LNT,Utilities,Electric Utilities,"Madison, Wisconsin",1917
+ALL,Financials,Property & Casualty Insurance,"Glenview, Illinois",1931
+GOOGL,Communication Services,Interactive Media & Services,"Mountain View, California",1998
+GOOG,Communication Services,Interactive Media & Services,"Mountain View, California",1998
+MO,Consumer Staples,Tobacco,"Richmond, Virginia",1985
+AMZN,Consumer Discretionary,Broadline Retail,"Seattle, Washington",1994
+AMCR,Materials,Paper & Plastic Packaging Products & Materials,"Warmley, Bristol, United Kingdom",2019
+AMD,Information Technology,Semiconductors,"Santa Clara, California",1969
+AEE,Utilities,Multi-Utilities,"St. Louis, Missouri",1902
+AAL,Industrials,Passenger Airlines,"Fort Worth, Texas",1934
+AEP,Utilities,Electric Utilities,"Columbus, Ohio",1906
+AXP,Financials,Consumer Finance,"New York City, New York",1850
+AIG,Financials,Property & Casualty Insurance,"New York City, New York",1919
+AMT,Real Estate,Telecom Tower REITs,"Boston, Massachusetts",1995
+AWK,Utilities,Water Utilities,"Camden, New Jersey",1886
+AMP,Financials,Asset Management & Custody Banks,"Minneapolis, Minnesota",1894
+ABC,Health Care,Health Care Distributors,"Conshohocken, Pennsylvania",1985
+AME,Industrials,Electrical Components & Equipment,"Berwyn, Pennsylvania",1930
+AMGN,Health Care,Biotechnology,"Thousand Oaks, California",1980
+APH,Information Technology,Electronic Components,"Wallingford, Connecticut",1932
+ADI,Information Technology,Semiconductors,"Wilmington, Massachusetts",1965
+ANSS,Information Technology,Application Software,"Canonsburg, Pennsylvania",1969
+AON,Financials,Insurance Brokers,"London, UK",1982
+APA,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1954
+AAPL,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1977
+AMAT,Information Technology,Semiconductor Materials & Equipment,"Santa Clara, California",1967
+APTV,Consumer Discretionary,Automotive Parts & Equipment,"Dublin, Ireland",1994
+ACGL,Financials,Reinsurance,"Hamilton, Bermuda",1995
+ANET,Information Technology,Communications Equipment,"Santa Clara, California",2004
+AJG,Financials,Insurance Brokers,"Rolling Meadows, Illinois",1927
+AIZ,Financials,Multi-line Insurance,"New York City, New York",1892
+T,Communication Services,Integrated Telecommunication Services,"Dallas, Texas",1983
+ATO,Utilities,Gas Utilities,"Dallas, Texas",1906
+ADSK,Information Technology,Application Software,"San Francisco, California",1982
+AZO,Consumer Discretionary,Specialty Stores,"Memphis, Tennessee",1979
+AVB,Real Estate,Residential REITs,"Arlington, Virginia",1978
+AVY,Materials,Paper & Plastic Packaging Products & Materials,"Glendale, California",1990
+AXON,Industrials,Aerospace & Defense,"Scottsdale, Arizona",1993
+BKR,Energy,Oil & Gas Equipment & Services,"Houston, Texas",2017
+BALL,Materials,"Metal, Glass & Plastic Containers","Broomfield, Colorado",1880
+BAC,Financials,Diversified Banks,"Charlotte, North Carolina",1998
+BBWI,Consumer Discretionary,Specialty Stores,"Columbus, Ohio",1963
+BAX,Health Care,Health Care Equipment,"Deerfield, Illinois",1931
+BDX,Health Care,Health Care Equipment,"Franklin Lakes, New Jersey",1897
+WRB,Financials,Property & Casualty Insurance,"Greenwich, Connecticut",1967
+BRK.B,Financials,Multi-Sector Holdings,"Omaha, Nebraska",1839
+BBY,Consumer Discretionary,Computer & Electronics Retail,"Richfield, Minnesota",1966
+BIO,Health Care,Life Sciences Tools & Services,"Hercules, California",1952
+TECH,Health Care,Life Sciences Tools & Services,"Minneapolis, Minnesota",1976
+BIIB,Health Care,Biotechnology,"Cambridge, Massachusetts",1978
+BLK,Financials,Asset Management & Custody Banks,"New York City, New York",1988
+BK,Financials,Asset Management & Custody Banks,"New York City, New York",1784
+BA,Industrials,Aerospace & Defense,"Chicago, Illinois",1916
+BKNG,Consumer Discretionary,"Hotels, Restaurants & Leisure","Norwalk, Connecticut",1996
+BWA,Consumer Discretionary,Automotive Parts & Equipment,"Auburn Hills, Michigan",1880
+BXP,Real Estate,Office REITs,"Boston, Massachusetts",1970
+BSX,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1979
+BMY,Health Care,Pharmaceuticals,"New York City, New York",1989
+AVGO,Information Technology,Semiconductors,"San Jose, California",1961
+BR,Industrials,Data Processing & Outsourced Services,"Lake Success, New York",1962
+BRO,Financials,Insurance Brokers,"Daytona Beach, Florida",1939
+BF.B,Consumer Staples,Distillers & Vintners,"Louisville, Kentucky",1870
+BG,Consumer Staples,Agricultural Products & Services,"Chesterfield, Missouri",1818
+CHRW,Industrials,Air Freight & Logistics,"Eden Prairie, Minnesota",1905
+CDNS,Information Technology,Application Software,"San Jose, California",1988
+CZR,Consumer Discretionary,Casinos & Gaming,"Reno, Nevada",1973
+CPT,Real Estate,Residential REITs,"Houston, Texas",1981
+CPB,Consumer Staples,Packaged Foods & Meats,"Camden, New Jersey",1869
+COF,Financials,Consumer Finance,"Tysons Corner, Virginia",1994
+CAH,Health Care,Health Care Distributors,"Dublin, Ohio",1971
+KMX,Consumer Discretionary,Automotive Retail,"Richmond, Virginia",1993
+CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1972
+CARR,Industrials,Building Products,"Palm Beach Gardens, Florida",2020
+CTLT,Health Care,Pharmaceuticals,"Somerset, New Jersey",2007
+CAT,Industrials,Construction Machinery & Heavy Transportation Equipment,"Irving, Texas",1925
+CBOE,Financials,Financial Exchanges & Data,"Chicago, Illinois",1973
+CBRE,Real Estate,Real Estate Services,"Dallas, Texas",1906
+CDW,Information Technology,Technology Distributors,"Lincolnshire, Illinois",1984
+CE,Materials,Specialty Chemicals,"Irving, Texas",1918
+CNC,Health Care,Managed Health Care,"St. Louis, Missouri",1984
+CNP,Utilities,Multi-Utilities,"Houston, Texas",1882
+CDAY,Information Technology,Application Software,"Minneapolis, Minnesota",1992
+CF,Materials,Fertilizers & Agricultural Chemicals,"Deerfield, Illinois",1946
+CRL,Health Care,Life Sciences Tools & Services,"Wilmington, Massachusetts",1947
+SCHW,Financials,Investment Banking & Brokerage,"Westlake, Texas",1971
+CHTR,Communication Services,Cable & Satellite,"Stamford, Connecticut",1993
+CVX,Energy,Integrated Oil & Gas,"San Ramon, California",1879
+CMG,Consumer Discretionary,Restaurants,"Newport Beach, California",1993
+CB,Financials,Property & Casualty Insurance,"Zurich, Switzerland",1985
+CHD,Consumer Staples,Household Products,"Ewing, New Jersey",1847
+CI,Health Care,Managed Health Care,"Bloomfield, Connecticut",1982
+CINF,Financials,Property & Casualty Insurance,"Fairfield, Ohio",1950
+CTAS,Industrials,Diversified Support Services,"Mason, Ohio",1929
+CSCO,Information Technology,Communications Equipment,"San Jose, California",1984
+C,Financials,Diversified Banks,"New York City, New York",1998
+CFG,Financials,Regional Banks,"Providence, Rhode Island",1828
+CLX,Consumer Staples,Household Products,"Oakland, California",1913
+CME,Financials,Financial Exchanges & Data,"Chicago, Illinois",1848
+CMS,Utilities,Multi-Utilities,"Jackson, Michigan",1886
+KO,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Atlanta, Georgia",1886
+CTSH,Information Technology,IT Consulting & Other Services,"Teaneck, New Jersey",1994
+CL,Consumer Staples,Household Products,"New York City, New York",1806
+CMCSA,Communication Services,Cable & Satellite,"Philadelphia, Pennsylvania",1963
+CMA,Financials,Diversified Banks,"Dallas, Texas",1849
+CAG,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",1919
+COP,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2002
+ED,Utilities,Electric Utilities,"New York City, New York",1823
+STZ,Consumer Staples,Distillers & Vintners,"Victor, New York",1945
+CEG,Utilities,Multi-Utilities,"Baltimore, Maryland",1999
+COO,Health Care,Health Care Supplies,"San Ramon, California",1958
+CPRT,Industrials,Diversified Support Services,"Dallas, Texas",1982
+GLW,Information Technology,Electronic Components,"Corning, New York",1851
+CTVA,Materials,Fertilizers & Agricultural Chemicals,"Indianapolis, Indiana",2019
+CSGP,Industrials,Research & Consulting Services,"Washington, D.C.",1987
+COST,Consumer Staples,Consumer Staples Merchandise Retail,"Issaquah, Washington",1976
+CTRA,Energy,Oil & Gas Exploration & Production,"Houston, Texas",2021
+CCI,Real Estate,Telecom Tower REITs,"Houston, Texas",1994
+CSX,Industrials,Rail Transportation,"Jacksonville, Florida",1980
+CMI,Industrials,Industrial Machinery & Supplies & Components,"Columbus, Indiana",1919
+CVS,Health Care,Health Care Services,"Woonsocket, Rhode Island",1996
+DHI,Consumer Discretionary,Homebuilding,"Arlington, Texas",1978
+DHR,Health Care,Health Care Equipment,"Washington, D.C.",1969
+DRI,Consumer Discretionary,Restaurants,"Orlando, Florida",1938
+DVA,Health Care,Health Care Facilities,"Denver, Colorado",1979
+DE,Industrials,Agricultural & Farm Machinery,"Moline, Illinois",1837
+DAL,Industrials,Passenger Airlines,"Atlanta, Georgia",1929
+XRAY,Health Care,Health Care Supplies,"Charlotte, North Carolina",2016
+DVN,Energy,Oil & Gas Exploration & Production,"Oklahoma City, Oklahoma",1971
+DXCM,Health Care,Health Care Equipment,"San Diego, California",1999
+FANG,Energy,Oil & Gas Exploration & Production,"Midland, Texas",2007
+DLR,Real Estate,Data Center REITs,"Austin, Texas",2004
+DFS,Financials,Consumer Finance,"Riverwoods, Illinois",1985
+DIS,Communication Services,Movies & Entertainment,"Burbank, California",1923
+DG,Consumer Staples,Consumer Staples Merchandise Retail,"Goodlettsville, Tennessee",1939
+DLTR,Consumer Staples,Consumer Staples Merchandise Retail,"Chesapeake, Virginia",1986
+D,Utilities,Electric Utilities,"Richmond, Virginia",1983
+DPZ,Consumer Discretionary,Restaurants,"Ann Arbor, Michigan",1960
+DOV,Industrials,Industrial Machinery & Supplies & Components,"Downers Grove, Illinois",1955
+DOW,Materials,Commodity Chemicals,"Midland, Michigan",2019
+DTE,Utilities,Multi-Utilities,"Detroit, Michigan",1995
+DUK,Utilities,Electric Utilities,"Charlotte, North Carolina",1904
+DD,Materials,Specialty Chemicals,"Wilmington, Delaware",2017
+DXC,Information Technology,IT Consulting & Other Services,"Tysons Corner, Virginia",2017
+EMN,Materials,Diversified Chemicals,"Kingsport, Tennessee",1920
+ETN,Industrials,Electrical Components & Equipment,"Dublin, Ireland",1911
+EBAY,Consumer Discretionary,Broadline Retail,"San Jose, California",1995
+ECL,Materials,Specialty Chemicals,"Saint Paul, Minnesota",1923
+EIX,Utilities,Electric Utilities,"Rosemead, California",1886
+EW,Health Care,Health Care Equipment,"Irvine, California",1958
+EA,Communication Services,Interactive Home Entertainment,"Redwood City, California",1982
+ELV,Health Care,Managed Health Care,"Indianapolis, Indiana",2014
+LLY,Health Care,Pharmaceuticals,"Indianapolis, Indiana",1876
+EMR,Industrials,Electrical Components & Equipment,"Ferguson, Missouri",1890
+ENPH,Information Technology,Electronic Components,"Fremont, California",2006
+ETR,Utilities,Electric Utilities,"New Orleans, Louisiana",1913
+EOG,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1999
+EPAM,Information Technology,IT Consulting & Other Services,"Newtown, Pennsylvania",1993
+EQT,Energy,Oil & Gas Exploration & Production,"Pittsburgh, Pennsylvania",1888
+EFX,Industrials,Research & Consulting Services,"Atlanta, Georgia",1899
+EQIX,Real Estate,Data Center REITs,"Redwood City, California",1998
+EQR,Real Estate,Residential REITs,"Chicago, Illinois",1969
+ESS,Real Estate,Residential REITs,"San Mateo, California",1971
+EL,Consumer Staples,Personal Care Products,"New York City, New York",1946
+ETSY,Consumer Discretionary,Broadline Retail,"New York City, New York",2005
+EG,Financials,Reinsurance,"Hamilton, Bermuda",1973
+EVRG,Utilities,Electric Utilities,"Kansas City, Missouri",1909
+ES,Utilities,Multi-Utilities,"Hartford, Connecticut",1966
+EXC,Utilities,Multi-Utilities,"Chicago, Illinois",2000
+EXPE,Consumer Discretionary,"Hotels, Restaurants & Leisure","Seattle, Washington",1996
+EXPD,Industrials,Air Freight & Logistics,"Seattle, Washington",1979
+EXR,Real Estate,Self-Storage REITs,"Salt Lake City, Utah",1977
+XOM,Energy,Integrated Oil & Gas,"Irving, Texas",1999
+FFIV,Information Technology,Communications Equipment,"Seattle, Washington",1996
+FDS,Financials,Financial Exchanges & Data,"Norwalk, Connecticut",1978
+FICO,Information Technology,Application Software,"Bozeman, Montana",1956
+FAST,Industrials,Building Products,"Winona, Minnesota",1967
+FRT,Real Estate,Retail REITs,"Rockville, Maryland",1962
+FDX,Industrials,Air Freight & Logistics,"Memphis, Tennessee",1971
+FITB,Financials,Regional Banks,"Cincinnati, Ohio",1858
+FSLR,Information Technology,Semiconductors,"Tempe, Arizona",1999
+FE,Utilities,Electric Utilities,"Akron, Ohio",1997
+FIS,Financials,Transaction & Payment Processing Services,"Jacksonville, Florida",1968
+FI,Financials,Transaction & Payment Processing Services,"Brookfield, Wisconsin",1984
+FLT,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2000
+FMC,Materials,Fertilizers & Agricultural Chemicals,"Philadelphia, Pennsylvania",1883
+F,Consumer Discretionary,Automobile Manufacturers,"Dearborn, Michigan",1903
+FTNT,Information Technology,Systems Software,"Sunnyvale, California",2000
+FTV,Industrials,Industrial Machinery & Supplies & Components,"Everett, Washington",2016
+FOXA,Communication Services,Movies & Entertainment,"New York City, New York",2019
+FOX,Communication Services,Movies & Entertainment,"New York City, New York",2019
+BEN,Financials,Asset Management & Custody Banks,"San Mateo, California",1947
+FCX,Materials,Copper,"Phoenix, Arizona",1912
+GRMN,Consumer Discretionary,Consumer Electronics,"Schaffhausen, Switzerland",1989
+IT,Information Technology,IT Consulting & Other Services,"Stamford, Connecticut",1979
+GEHC,Health Care,Health Care Technology,"Chicago, Illinois",1994
+GEN,Information Technology,Application Software,"Tempe, Arizona",1982
+GNRC,Industrials,Electrical Components & Equipment,"Waukesha, Wisconsin",1959
+GD,Industrials,Aerospace & Defense,"Falls Church, Virginia",1899
+GE,Industrials,Industrial Conglomerates,"Boston, Massachusetts",1892
+GIS,Consumer Staples,Packaged Foods & Meats,"Golden Valley, Minnesota",1856
+GM,Consumer Discretionary,Automobile Manufacturers,"Detroit, Michigan",1908
+GPC,Consumer Discretionary,Specialty Stores,"Atlanta, Georgia",1925
+GILD,Health Care,Biotechnology,"Foster City, California",1987
+GL,Financials,Life & Health Insurance,"McKinney, Texas",1900
+GPN,Financials,Transaction & Payment Processing Services,"Atlanta, Georgia",2000
+GS,Financials,Investment Banking & Brokerage,"New York City, New York",1869
+HAL,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1919
+HIG,Financials,Property & Casualty Insurance,"Hartford, Connecticut",1810
+HAS,Consumer Discretionary,Leisure Products,"Pawtucket, Rhode Island",1923
+HCA,Health Care,Health Care Facilities,"Nashville, Tennessee",1968
+PEAK,Real Estate,Health Care REITs,"Long Beach, California",1985
+HSIC,Health Care,Health Care Distributors,"Melville, New York",1932
+HSY,Consumer Staples,Packaged Foods & Meats,"Hershey, Pennsylvania",1894
+HES,Energy,Integrated Oil & Gas,"New York City, New York",1919
+HPE,Information Technology,"Technology Hardware, Storage & Peripherals","Houston, Texas",2015
+HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Tysons Corner, Virginia",1919
+HOLX,Health Care,Health Care Equipment,"Marlborough, Massachusetts",1985
+HD,Consumer Discretionary,Home Improvement Retail,"Atlanta, Georgia",1978
+HON,Industrials,Industrial Conglomerates,"Charlotte, North Carolina",1906
+HRL,Consumer Staples,Packaged Foods & Meats,"Austin, Minnesota",1891
+HST,Real Estate,Hotel & Resort REITs,"Bethesda, Maryland",1993
+HWM,Industrials,Aerospace & Defense,"Pittsburgh, Pennsylvania",2016
+HPQ,Information Technology,"Technology Hardware, Storage & Peripherals","Palo Alto, California",1939
+HUM,Health Care,Managed Health Care,"Louisville, Kentucky",1961
+HBAN,Financials,Regional Banks,"Columbus, Ohio; Detroit, Michigan",1866
+HII,Industrials,Aerospace & Defense,"Newport News, Virginia",2011
+IBM,Information Technology,IT Consulting & Other Services,"Armonk, New York",1911
+IEX,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1988
+IDXX,Health Care,Health Care Equipment,"Westbrook, Maine",1983
+ITW,Industrials,Industrial Machinery & Supplies & Components,"Glenview, Illinois",1912
+ILMN,Health Care,Life Sciences Tools & Services,"San Diego, California",1998
+INCY,Health Care,Biotechnology,"Wilmington, Delaware",1991
+IR,Industrials,Industrial Machinery & Supplies & Components,"Davidson, North Carolina",1859
+PODD,Health Care,Health Care Equipment,"Acton, Massachusetts",2000
+INTC,Information Technology,Semiconductors,"Santa Clara, California",1968
+ICE,Financials,Financial Exchanges & Data,"Atlanta, Georgia",2000
+IFF,Materials,Specialty Chemicals,"New York City, New York",1958
+IP,Materials,Paper & Plastic Packaging Products & Materials,"Memphis, Tennessee",1898
+IPG,Communication Services,Advertising,"New York City, New York",1961
+INTU,Information Technology,Application Software,"Mountain View, California",1983
+ISRG,Health Care,Health Care Equipment,"Sunnyvale, California",1995
+IVZ,Financials,Asset Management & Custody Banks,"Atlanta, Georgia",1935
+INVH,Real Estate,Residential REITs,"Dallas, Texas",2012
+IQV,Health Care,Life Sciences Tools & Services,"Durham, North Carolina",1982
+IRM,Real Estate,Other Specialized REITs,"Boston, Massachusetts",1951
+JBHT,Industrials,Cargo Ground Transportation,"Lowell, Arkansas",1961
+JKHY,Financials,Transaction & Payment Processing Services,"Monett, Missouri",1976
+J,Industrials,Construction & Engineering,"Dallas, Texas",1947
+JNJ,Health Care,Pharmaceuticals,"New Brunswick, New Jersey",1886
+JCI,Industrials,Building Products,"Cork, Ireland",1885
+JPM,Financials,Diversified Banks,"New York City, New York",2000
+JNPR,Information Technology,Communications Equipment,"Sunnyvale, California",1996
+K,Consumer Staples,Packaged Foods & Meats,"Battle Creek, Michigan",1906
+KDP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Burlington, Massachusetts",1981
+KEY,Financials,Regional Banks,"Cleveland, Ohio",1825
+KEYS,Information Technology,Electronic Equipment & Instruments,"Santa Rosa, California",2014
+KMB,Consumer Staples,Household Products,"Irving, Texas",1872
+KIM,Real Estate,Retail REITs,"New Hyde Park, New York",1958
+KMI,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",1997
+KLAC,Information Technology,Semiconductor Materials & Equipment,"Milpitas, California",1975
+KHC,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois; Pittsburgh, Pennsylvania",2015
+KR,Consumer Staples,Food Retail,"Cincinnati, Ohio",1883
+LHX,Industrials,Aerospace & Defense,"Melbourne, Florida",2019
+LH,Health Care,Health Care Services,"Burlington, North Carolina",1978
+LRCX,Information Technology,Semiconductor Materials & Equipment,"Fremont, California",1980
+LW,Consumer Staples,Packaged Foods & Meats,"Eagle, Idaho",2016
+LVS,Consumer Discretionary,Casinos & Gaming,"Las Vegas, Nevada",1988
+LDOS,Industrials,Diversified Support Services,"Reston, Virginia",1969
+LEN,Consumer Discretionary,Homebuilding,"Miami, Florida",1954
+LNC,Financials,Multi-line Insurance,"Radnor, Pennsylvania",1905
+LIN,Materials,Industrial Gases,"Guildford, United Kingdom",1879
+LYV,Communication Services,Movies & Entertainment,"Beverly Hills, California",2010
+LKQ,Consumer Discretionary,Distributors,"Chicago, Illinois",1998
+LMT,Industrials,Aerospace & Defense,"Bethesda, Maryland",1995
+L,Financials,Multi-line Insurance,"New York City, New York",1959
+LOW,Consumer Discretionary,Home Improvement Retail,"Mooresville, North Carolina",1904
+LYB,Materials,Specialty Chemicals,"Rotterdam, Netherlands",2007
+MTB,Financials,Regional Banks,"Buffalo, New York",1856
+MRO,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1887
+MPC,Energy,Oil & Gas Refining & Marketing,"Findlay, Ohio",2009
+MKTX,Financials,Financial Exchanges & Data,"New York City, New York",2000
+MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Bethesda, Maryland",1927
+MMC,Financials,Insurance Brokers,"New York City, New York",1905
+MLM,Materials,Construction Materials,"Raleigh, North Carolina",1993
+MAS,Industrials,Building Products,"Livonia, Michigan",1929
+MA,Financials,Transaction & Payment Processing Services,"Harrison, New York",1966
+MTCH,Communication Services,Interactive Media & Services,"Dallas, Texas",1986
+MKC,Consumer Staples,Packaged Foods & Meats,"Hunt Valley, Maryland",1889
+MCD,Consumer Discretionary,Restaurants,"Chicago, Illinois",1940
+MCK,Health Care,Health Care Distributors,"Irving, Texas",1833
+MDT,Health Care,Health Care Equipment,"Dublin, Ireland",1949
+MRK,Health Care,Pharmaceuticals,"Kenilworth, New Jersey",1891
+META,Communication Services,Interactive Media & Services,"Menlo Park, California",2004
+MET,Financials,Life & Health Insurance,"New York City, New York",1868
+MTD,Health Care,Life Sciences Tools & Services,"Columbus, Ohio",1945
+MGM,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",1986
+MCHP,Information Technology,Semiconductors,"Chandler, Arizona",1989
+MU,Information Technology,Semiconductors,"Boise, Idaho",1978
+MSFT,Information Technology,Systems Software,"Redmond, Washington",1975
+MAA,Real Estate,Residential REITs,"Memphis, Tennessee",1977
+MRNA,Health Care,Biotechnology,"Cambridge, Massachusetts",2010
+MHK,Consumer Discretionary,Home Furnishings,"Calhoun, Georgia",1878
+MOH,Health Care,Managed Health Care,"Long Beach, California",1980
+TAP,Consumer Staples,Brewers,"Chicago, Illinois",2005
+MDLZ,Consumer Staples,Packaged Foods & Meats,"Chicago, Illinois",2012
+MPWR,Information Technology,Semiconductors,"Kirkland, Washington",1997
+MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Corona, California",2012
+MCO,Financials,Financial Exchanges & Data,"New York City, New York",1909
+MS,Financials,Investment Banking & Brokerage,"New York City, New York",1935
+MOS,Materials,Fertilizers & Agricultural Chemicals,"Tampa, Florida",2004
+MSI,Information Technology,Communications Equipment,"Chicago, Illinois",1928
+MSCI,Financials,Financial Exchanges & Data,"New York City, New York",1969
+NDAQ,Financials,Financial Exchanges & Data,"New York City, New York",1971
+NTAP,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1992
+NFLX,Communication Services,Movies & Entertainment,"Los Gatos, California",1997
+NWL,Consumer Discretionary,Housewares & Specialties,"Atlanta, Georgia",1903
+NEM,Materials,Gold,"Denver, Colorado",1921
+NWSA,Communication Services,Publishing,"New York City, New York",2013
+NWS,Communication Services,Publishing,"New York City, New York",2013
+NEE,Utilities,Multi-Utilities,"Juno Beach, Florida",1984
+NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Washington County, Oregon",1964
+NI,Utilities,Multi-Utilities,"Merrillville, Indiana",1912
+NDSN,Industrials,Industrial Machinery & Supplies & Components,"Westlake, Ohio",1935
+NSC,Industrials,Rail Transportation,"Atlanta, Georgia",1881
+NTRS,Financials,Asset Management & Custody Banks,"Chicago, Illinois",1889
+NOC,Industrials,Aerospace & Defense,"West Falls Church, Virginia",1994
+NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",2011
+NRG,Utilities,Independent Power Producers & Energy Traders,"Houston, Texas",1992
+NUE,Materials,Steel,"Charlotte, North Carolina",1940
+NVDA,Information Technology,Semiconductors,"Santa Clara, California",1993
+NVR,Consumer Discretionary,Homebuilding,"Reston, Virginia",1980
+NXPI,Information Technology,Semiconductors,"Eindhoven, Netherlands",1953
+ORLY,Consumer Discretionary,Specialty Stores,"Springfield, Missouri",1957
+OXY,Energy,Oil & Gas Exploration & Production,"Houston, Texas",1920
+ODFL,Industrials,Cargo Ground Transportation,"Thomasville, North Carolina",1934
+OMC,Communication Services,Advertising,"New York City, New York",1986
+ON,Information Technology,Semiconductors,"Phoenix, Arizona",1999
+OKE,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1906
+ORCL,Information Technology,Application Software,"Austin, Texas",1977
+OGN,Health Care,Pharmaceuticals,"Jersey City, New Jersey",2021
+OTIS,Industrials,Industrial Machinery & Supplies & Components,"Farmington, Connecticut",2020
+PCAR,Industrials,Construction Machinery & Heavy Transportation Equipment,"Bellevue, Washington",1905
+PKG,Materials,Paper & Plastic Packaging Products & Materials,"Lake Forest, Illinois",1959
+PANW,Information Technology,Application Software,"Santa Clara, California",2005
+PARA,Communication Services,Movies & Entertainment,"New York City, New York",2019
+PH,Industrials,Industrial Machinery & Supplies & Components,"Cleveland, Ohio",1917
+PAYX,Industrials,Human Resource & Employment Services,"Penfield, New York",1971
+PAYC,Information Technology,Application Software,"Oklahoma City, Oklahoma",1998
+PYPL,Financials,Transaction & Payment Processing Services,"San Jose, California",1998
+PNR,Industrials,Industrial Machinery & Supplies & Components,"Worsley, United Kingdom",1966
+PEP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,"Purchase, New York",1898
+PFE,Health Care,Pharmaceuticals,"New York City, New York",1849
+PCG,Utilities,Multi-Utilities,"San Francisco, California",1905
+PM,Consumer Staples,Tobacco,"New York City, New York",2008
+PSX,Energy,Oil & Gas Refining & Marketing,"Houston, Texas",2012
+PNW,Utilities,Multi-Utilities,"Phoenix, Arizona",1985
+PXD,Energy,Oil & Gas Exploration & Production,"Irving, Texas",1997
+PNC,Financials,Regional Banks,"Pittsburgh, Pennsylvania",1845
+POOL,Consumer Discretionary,Distributors,"Covington, Louisiana",1993
+PPG,Materials,Specialty Chemicals,"Pittsburgh, Pennsylvania",1883
+PPL,Utilities,Electric Utilities,"Allentown, Pennsylvania",1920
+PFG,Financials,Life & Health Insurance,"Des Moines, Iowa",1879
+PG,Consumer Staples,Personal Care Products,"Cincinnati, Ohio",1837
+PGR,Financials,Property & Casualty Insurance,"Mayfield Village, Ohio",1937
+PLD,Real Estate,Industrial REITs,"San Francisco, California",1983
+PRU,Financials,Life & Health Insurance,"Newark, New Jersey",1875
+PEG,Utilities,Electric Utilities,"Newark, New Jersey",1903
+PTC,Information Technology,Application Software,"Boston, Massachusetts",1985
+PSA,Real Estate,Self-Storage REITs,"Glendale, California",1972
+PHM,Consumer Discretionary,Homebuilding,"Atlanta, Georgia",1956
+QRVO,Information Technology,Semiconductors,"Greensboro, North Carolina",2015
+PWR,Industrials,Construction & Engineering,"Houston, Texas",1997
+QCOM,Information Technology,Semiconductors,"San Diego, California",1985
+DGX,Health Care,Health Care Services,"Secaucus, New Jersey",1967
+RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",1967
+RJF,Financials,Investment Banking & Brokerage,"St. Petersburg, Florida",1962
+RTX,Industrials,Aerospace & Defense,"Waltham, Massachusetts",1922
+O,Real Estate,Retail REITs,"San Diego, California",1969
+REG,Real Estate,Retail REITs,"Jacksonville, Florida",1963
+REGN,Health Care,Biotechnology,"Tarrytown, New York",1988
+RF,Financials,Regional Banks,"Birmingham, Alabama",1971
+RSG,Industrials,Environmental & Facilities Services,"Phoenix, Arizona",1998
+RMD,Health Care,Health Care Equipment,"San Diego, California",1989
+RVTY,Health Care,Health Care Equipment,"Waltham, Massachusetts",1937
+RHI,Industrials,Human Resource & Employment Services,"Menlo Park, California",1948
+ROK,Industrials,Electrical Components & Equipment,"Milwaukee, Wisconsin",1903
+ROL,Industrials,Environmental & Facilities Services,"Atlanta, Georgia",1948
+ROP,Information Technology,Electronic Equipment & Instruments,"Sarasota, Florida",1981
+ROST,Consumer Discretionary,Apparel Retail,"Dublin, California",1982
+RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines","Miami, Florida",1997
+SPGI,Financials,Financial Exchanges & Data,"New York City, New York",1917
+CRM,Information Technology,Application Software,"San Francisco, California",1999
+SBAC,Real Estate,Telecom Tower REITs,"Boca Raton, Florida",1989
+SLB,Energy,Oil & Gas Equipment & Services,"Houston, Texas",1926
+STX,Information Technology,"Technology Hardware, Storage & Peripherals","Dublin, Ireland",1979
+SEE,Materials,Paper & Plastic Packaging Products & Materials,"Charlotte, North Carolina",1960
+SRE,Utilities,Multi-Utilities,"San Diego, California",1998
+NOW,Information Technology,Systems Software,"Santa Clara, California",2003
+SHW,Materials,Specialty Chemicals,"Cleveland, Ohio",1866
+SPG,Real Estate,Retail REITs,"Indianapolis, Indiana",2003
+SWKS,Information Technology,Semiconductors,"Irvine, California",2002
+SJM,Consumer Staples,Packaged Foods & Meats,"Orrville, Ohio",1897
+SNA,Industrials,Industrial Machinery & Supplies & Components,"Kenosha, Wisconsin",1920
+SEDG,Information Technology,Semiconductor Materials & Equipment,"Herzliya, Israel",2006
+SO,Utilities,Electric Utilities,"Atlanta, Georgia",1945
+LUV,Industrials,Passenger Airlines,"Dallas, Texas",1967
+SWK,Industrials,Industrial Machinery & Supplies & Components,"New Britain, Connecticut",1843
+SBUX,Consumer Discretionary,Restaurants,"Seattle, Washington",1971
+STT,Financials,Asset Management & Custody Banks,"Boston, Massachusetts",1792
+STLD,Materials,Steel,"Fort Wayne, Indiana",1993
+STE,Health Care,Health Care Equipment,"Dublin, Ireland",1985
+SYK,Health Care,Health Care Equipment,"Kalamazoo, Michigan",1941
+SYF,Financials,Consumer Finance,"Stamford, Connecticut",2003
+SNPS,Information Technology,Application Software,"Sunnyvale, California",1986
+SYY,Consumer Staples,Food Distributors,"Houston, Texas",1969
+TMUS,Communication Services,Wireless Telecommunication Services,"Bellevue, Washington",1994
+TROW,Financials,Asset Management & Custody Banks,"Baltimore, Maryland",1937
+TTWO,Communication Services,Interactive Home Entertainment,"New York City, New York",1993
+TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","New York City, New York",2017
+TRGP,Energy,Oil & Gas Storage & Transportation,"Houston, Texas",2005
+TGT,Consumer Staples,Consumer Staples Merchandise Retail,"Minneapolis, Minnesota",1902
+TEL,Information Technology,Electronic Manufacturing Services,"Schaffhausen, Switzerland",2007
+TDY,Information Technology,Electronic Equipment & Instruments,"Thousand Oaks, California",1960
+TFX,Health Care,Health Care Equipment,"Wayne, Pennsylvania",1943
+TER,Information Technology,Semiconductor Materials & Equipment,"North Reading, Massachusetts",1960
+TSLA,Consumer Discretionary,Automobile Manufacturers,"Austin, Texas",2003
+TXN,Information Technology,Semiconductors,"Dallas, Texas",1930
+TXT,Industrials,Aerospace & Defense,"Providence, Rhode Island",1923
+TMO,Health Care,Life Sciences Tools & Services,"Waltham, Massachusetts",2006
+TJX,Consumer Discretionary,Apparel Retail,"Framingham, Massachusetts",1987
+TSCO,Consumer Discretionary,Specialty Stores,"Brentwood, Tennessee",1938
+TT,Industrials,Building Products,"Dublin, Ireland",1871
+TDG,Industrials,Aerospace & Defense,"Cleveland, Ohio",1993
+TRV,Financials,Property & Casualty Insurance,"New York City, New York",1853
+TRMB,Information Technology,Electronic Equipment & Instruments,"Westminster, Colorado",1978
+TFC,Financials,Regional Banks,"Charlotte, North Carolina",1872
+TYL,Information Technology,Application Software,"Plano, Texas",1966
+TSN,Consumer Staples,Packaged Foods & Meats,"Springdale, Arkansas",1935
+USB,Financials,Diversified Banks,"Minneapolis, Minnesota",1968
+UDR,Real Estate,Residential REITs,"Highlands Ranch, Colorado",1972
+ULTA,Consumer Discretionary,Specialty Stores,"Bolingbrook, Illinois",1990
+UNP,Industrials,Rail Transportation,"Omaha, Nebraska",1862
+UAL,Industrials,Passenger Airlines,"Chicago, Illinois",1967
+UPS,Industrials,Air Freight & Logistics,"Sandy Springs, Georgia",1907
+URI,Industrials,Trading Companies & Distributors,"Stamford, Connecticut",1997
+UNH,Health Care,Managed Health Care,"Minnetonka, Minnesota",1977
+UHS,Health Care,Health Care Facilities,"King of Prussia, Pennsylvania",1979
+VLO,Energy,Oil & Gas Refining & Marketing,"San Antonio, Texas",1980
+VTR,Real Estate,Health Care REITs,"Chicago, Illinois",1998
+VRSN,Information Technology,Internet Services & Infrastructure,"Dulles, Virginia",1995
+VRSK,Industrials,Research & Consulting Services,"Jersey City, New Jersey",1971
+VZ,Communication Services,Integrated Telecommunication Services,"New York City, New York",1983
+VRTX,Health Care,Biotechnology,"Cambridge, Massachusetts",1989
+VFC,Consumer Discretionary,"Apparel, Accessories & Luxury Goods","Denver, Colorado",1899
+VTRS,Health Care,Pharmaceuticals,"Pittsburgh, Pennsylvania",1961
+VICI,Real Estate,Hotel & Resort REITs,"New York City, New York",2017
+V,Financials,Transaction & Payment Processing Services,"San Francisco, California",1958
+VMC,Materials,Construction Materials,"Birmingham, Alabama",1909
+WAB,Industrials,Construction Machinery & Heavy Transportation Equipment,"Pittsburgh, Pennsylvania",1999
+WBA,Consumer Staples,Drug Retail,"Deerfield, Illinois",2014
+WMT,Consumer Staples,Consumer Staples Merchandise Retail,"Bentonville, Arkansas",1962
+WBD,Communication Services,Broadcasting,"New York City, New York",2022
+WM,Industrials,Environmental & Facilities Services,"Houston, Texas",1968
+WAT,Health Care,Health Care Distributors,"Milford, Massachusetts",1958
+WEC,Utilities,Electric Utilities,"Milwaukee, Wisconsin",1896
+WFC,Financials,Diversified Banks,"San Francisco, California",1852
+WELL,Real Estate,Health Care REITs,"Toledo, Ohio",1970
+WST,Health Care,Health Care Supplies,"Exton, Pennsylvania",1923
+WDC,Information Technology,"Technology Hardware, Storage & Peripherals","San Jose, California",1970
+WRK,Materials,Paper & Plastic Packaging Products & Materials,"Atlanta, Georgia",2015
+WY,Real Estate,Timber REITs,"Seattle, Washington",1900
+WHR,Consumer Discretionary,Household Appliances,"Benton Harbor, Michigan",1911
+WMB,Energy,Oil & Gas Storage & Transportation,"Tulsa, Oklahoma",1908
+WTW,Financials,Insurance Brokers,"London, United Kingdom",2016
+GWW,Industrials,Industrial Machinery & Supplies & Components,"Lake Forest, Illinois",1927
+WYNN,Consumer Discretionary,Casinos & Gaming,"Paradise, Nevada",2002
+XEL,Utilities,Multi-Utilities,"Minneapolis, Minnesota",1909
+XYL,Industrials,Industrial Machinery & Supplies & Components,"White Plains, New York",2011
+YUM,Consumer Discretionary,Restaurants,"Louisville, Kentucky",1997
+ZBRA,Information Technology,Electronic Equipment & Instruments,"Lincolnshire, Illinois",1969
+ZBH,Health Care,Health Care Equipment,"Warsaw, Indiana",1927
+ZION,Financials,Regional Banks,"Salt Lake City, Utah",1873
+ZTS,Health Care,Pharmaceuticals,"Parsippany, New Jersey",1952
