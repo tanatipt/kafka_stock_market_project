@@ -21,7 +21,7 @@ signal.signal(signal.SIGINT, signal_handler)
 
 try:
     consumer = KafkaConsumer("stock_info", bootstrap_servers="16.171.200.168:9092", key_deserializer=lambda x: loads(x.decode('utf-8')),
-                             value_deserializer=lambda x: loads(x.decode('utf-8')))
+                             value_deserializer=lambda x: loads(x.decode('utf-8')),  group_id="info_consumer_group")
 except Exception as e:
     print("An error has occured while creating the consumer : ", e)
     consumer = None
